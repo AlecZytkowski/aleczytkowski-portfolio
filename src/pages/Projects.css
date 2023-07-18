@@ -1,0 +1,11 @@
+.projects {
+    margin-bottom: 80px;
+}
+
+.project-cards {
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
+}
