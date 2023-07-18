@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aleczytkowski-portfolio/static/css/main.38a6f247.css",
+    "main.js": "/aleczytkowski-portfolio/static/js/main.f4dccfde.js",
+    "static/js/787.891af482.chunk.js": "/aleczytkowski-portfolio/static/js/787.891af482.chunk.js",
+    "static/media/profile.jpg": "/aleczytkowski-portfolio/static/media/profile.cb7fdb7ffa8ac212a3ce.jpg",
+    "static/media/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg": "/aleczytkowski-portfolio/static/media/fotis-fotopoulos-DuHKoV44prg-unsplash.8ae76a91385036b14570.jpg",
+    "index.html": "/aleczytkowski-portfolio/index.html",
+    "main.38a6f247.css.map": "/aleczytkowski-portfolio/static/css/main.38a6f247.css.map",
+    "main.f4dccfde.js.map": "/aleczytkowski-portfolio/static/js/main.f4dccfde.js.map",
+    "787.891af482.chunk.js.map": "/aleczytkowski-portfolio/static/js/787.891af482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a6f247.css",
+    "static/js/main.f4dccfde.js"
+  ]
+}
