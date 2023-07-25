@@ -15,4 +15,4 @@ Welcome to my ReactJS portfolio! This repository showcases a collection of my Re
 ## Features
 
 - Project 1: [Trackify](https://github.com/AlecZytkowski/trackify) - Trackify is a user-friendly task tracker app that allows you to easily add tasks, mark them as completed with a strikethrough, and remove completed tasks from the list with a single click, streamlining your to-do list management for enhanced productivity. Stay organized and on top of your tasks with Trackify's intuitive interface.
-- Project 2: [ATMPartOrdering]() - ATMPartOrdering allows you to shop around for common ATM parts, and add them to your cart. It also tracks how many of each item you have added to the cart, and provides you with the costs associated.
+- Project 2: [ShopATM](https://github.com/AlecZytkowski/ShopATM) - ShopATM allows you to shop around for common ATMs from various manufacturers, and add them to your cart. It also tracks how many of each item you have added to the cart, and provides you with the costs associated.
