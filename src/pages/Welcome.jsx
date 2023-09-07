@@ -28,7 +28,7 @@ export const Welcome = () => {
         <p>I am Alec Zytkowski.</p>
         <img src={profile} alt='Alec Zytkowski' className='welcome-image' />
         <h3>
-          A{' '}
+          {' '}
           <span className='text-transition'>
             {textArray[textIndex]}
           </span>
