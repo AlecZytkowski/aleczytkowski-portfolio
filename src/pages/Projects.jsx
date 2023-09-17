@@ -1,6 +1,5 @@
 import './Projects.css'
 import { ProjectCard } from '../components/ProjectCard'
-import { useState } from 'react'
 
 export const Projects = () => {
 
