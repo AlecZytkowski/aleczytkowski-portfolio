@@ -2,6 +2,7 @@ import './ProjectCard.css'
 import { SocialIcon } from 'react-social-icons';
 
 export const ProjectCard = ({ project }) => {
+
 return(
         <div className='project-card'>
             <div>
