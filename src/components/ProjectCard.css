@@ -13,6 +13,12 @@
     box-shadow: #00000059 4px 4px;
 }
 
+.project-card:hover {
+    cursor: 'pointer';
+    box-shadow: 6px 6px white;
+    background-color: #ff8c00fd; 
+  }
+
 .social-links {
     display: flex;
     justify-content: center;
