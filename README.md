@@ -1,5 +1,8 @@
 # Alec Zytkowski's ReactJS Portfolio
 
+## Check out my portfolio!
+https://aleczytkowski.github.io/aleczytkowski-portfolio/
+
 ## Description
 
 Welcome to my ReactJS portfolio! This repository showcases a collection of my React projects, demonstrating my skills and expertise in frontend development, as well as some information about me, and a way to contact me!
