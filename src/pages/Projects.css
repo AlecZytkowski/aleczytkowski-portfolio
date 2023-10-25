@@ -1,11 +1,55 @@
 .projects {
     margin-bottom: 80px;
+    text-align: center;
 }
 
 .project-cards {
-    display:flex;
-    justify-content: space-between;
+    display: flex;
+    justify-content: center;
     flex-wrap: wrap;
-    margin-left: 10%;
-    margin-right: 10%;
+    gap: 20px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.project-cards h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.project-cards .project-card {
+    width: calc(40%);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ff8c00;
+    transition: all 0.3s;
+}
+
+.project-cards .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    background-color: #ffa537;
+}
+
+.project-cards .project-card h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.project-cards .project-card p {
+    font-size: 16px;
+    color: black;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-links .react-social-icons {
+    width: 30px;
+    height: 30px;
 }
