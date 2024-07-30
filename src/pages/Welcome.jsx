@@ -5,10 +5,14 @@ import profile from '../assets/profile.jpg'
 export const Welcome = () => {
     const [textIndex, setTextIndex] = useState(0);
     const textArray = [
-      'React JS Enthusiast',
-      'Front-end Developer',
+      'Full-Stack Developer',
+      'ReactJS Developer',
+      'C# Developer',
+      'Blazor Developer',
+      'SQL Administrator',
       'UI/UX Designer',
       'Web Developer',
+      'IT Administrator',
       'Tech Enthusiast'
     ];
   
